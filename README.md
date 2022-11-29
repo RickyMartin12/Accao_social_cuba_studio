@@ -51,6 +51,10 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ## Valênçia
 
+### Listar Valênçia
+
+![listar_valencias](https://user-images.githubusercontent.com/9846274/204586801-f451ebd5-96e1-41e2-b8db-cb753fdb341a.png)
+
 ### Criar Valencia através da descrição da instituição (Instituicao_id)
 
 ![criar_valencia_descricao_instituicao](https://user-images.githubusercontent.com/9846274/204540325-8fdcd004-f0aa-42af-ad89-386258aedb91.png)
@@ -73,5 +77,19 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ### Criar Valencia - Acordo Utentes
 
+![criar_valencia_contratos_instituicao](https://user-images.githubusercontent.com/9846274/204586989-dfdbe058-c8e0-48f3-b355-44d2b77eb802.png)
+![criar_valencia_certidao_instituicao](https://user-images.githubusercontent.com/9846274/204586994-6a9e70dd-4496-4665-95cd-ad8266420e5e.png)
+![criar_valencia_atividades_instituicao](https://user-images.githubusercontent.com/9846274/204586998-3af89918-574f-4403-b725-ba7867b3d2be.png)
+![criar_valencia_acordo_vagas_instituicao](https://user-images.githubusercontent.com/9846274/204587003-cba678aa-ea0a-413c-8bf4-bf7419c461b3.png)
+![criar_valencia_acordo_utentes_instituicao](https://user-images.githubusercontent.com/9846274/204587007-125c20b9-c641-4039-a772-ad32ae4384c3.png)
+
+![criar_valencia_transportes_instituicao](https://user-images.githubusercontent.com/9846274/204587012-9ad5dc46-b494-4384-977e-b88b1d0e3a7b.png)
+![criar_valencia_recursos_servicos_instituicao](https://user-images.githubusercontent.com/9846274/204587013-dd4ac832-6fc8-4996-8874-a5fe1d2393e8.png)
+![criar_valencia_horarios_instituicao](https://user-images.githubusercontent.com/9846274/204587016-5d5fb394-9ca1-46e7-b75e-c4eb097f0fef.png)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Relacoes com a Valênçia (Muitos para um)
+
+![relacoes_valencias](https://user-images.githubusercontent.com/9846274/204587008-c0520287-76d8-41c2-8131-6e1956650f32.png)
