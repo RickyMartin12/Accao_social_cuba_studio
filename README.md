@@ -150,3 +150,13 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Claso 
+
+### Listagem de Membros de Instituição
+
+### Lisagem de Sub Rede de Trabalho - Atas
+
+### Listagem de Sub Rede de Trabalho - Fichas de Adesão
+
+### Listagem de Sub Rede de Trabalho - Regulamentos
+
