@@ -163,19 +163,17 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ![listar_membros_rede_sub_rede_atas](https://user-images.githubusercontent.com/9846274/204643127-c5b944d2-3629-4a32-9699-ab4edb7eb69c.png)
 
-### Editar/Criar Membros da Instituição (Claso) da Sub Rede de Trabalho - Atas (Dados Pessoais)
+### Editar/Criar Membros da Instituição (Claso) da Sub Rede de Trabalho - Atas, Fichas de Adesão, Regulamentos (Dados Pessoais)
 
 ![criar_editar_membros_instituicao_claso_sub_rede_atas_dados_pessoais](https://user-images.githubusercontent.com/9846274/204755454-0ae643e7-1818-4a27-9e56-cdef489b522c.png)
 
-### Editar/Criar Membros da Instituição (Claso) da Sub Rede de Trabalho - Atas (Ficheiros)
+### Editar/Criar Membros da Instituição (Claso) da Sub Rede de Trabalho - Atas, Fichas de Adesão, Regulamentos (Ficheiros)
 
 ![criar_editar_membros_instituicao_claso_sub_rede_atas_ficheiro](https://user-images.githubusercontent.com/9846274/204756371-23f1f959-8335-46fa-8bde-0f505647614f.png)
 
 ### Listagem de Sub Rede de Trabalho - Fichas de Adesão
 
 ![listar_membros_rede_sub_rede_fichas](https://user-images.githubusercontent.com/9846274/204643135-970dec77-e4a1-4a10-8652-2fb3189810a1.png)
-
-
 
 ### Listagem de Sub Rede de Trabalho - Regulamentos
 
