@@ -149,21 +149,36 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 ## Claso 
 
 ### Listagem de Membros de Instituição
-![listar_membros_rede_sub_rede_atas](https://user-images.githubusercontent.com/9846274/204643127-c5b944d2-3629-4a32-9699-ab4edb7eb69c.png)
+
 ![listar_membros_rede_claso](https://user-images.githubusercontent.com/9846274/204643131-860b29ed-cd86-4209-912f-3b4148675357.png)
-![listar_membros_rede_sub_rede_fichas](https://user-images.githubusercontent.com/9846274/204643135-970dec77-e4a1-4a10-8652-2fb3189810a1.png)
-![listar_membros_rede_sub_rede_regulametos](https://user-images.githubusercontent.com/9846274/204643145-e29f970f-833f-46a9-a3d7-8d248ea86a94.png)
 
+### Editar/Criar Membros da Instituição (Claso)
 
+![criar_editar_membros_instituicao_claso](https://user-images.githubusercontent.com/9846274/204753877-8d449a24-d700-4c60-a73e-04678a506216.png)
 
-### Lisagem de Sub Rede de Trabalho - Atas
+### Listagem de Sub Rede de Trabalho - Atas
+
+![listar_membros_rede_sub_rede_atas](https://user-images.githubusercontent.com/9846274/204643127-c5b944d2-3629-4a32-9699-ab4edb7eb69c.png)
+
+### Editar/Criar Membros da Instituição (Claso) da Sub Rede de Trabalho - Atas (Dados Pessoais)
+
+![criar_editar_membros_instituicao_claso_sub_rede_atas_dados_pessoais](https://user-images.githubusercontent.com/9846274/204755454-0ae643e7-1818-4a27-9e56-cdef489b522c.png)
+
+### Editar/Criar Membros da Instituição (Claso) da Sub Rede de Trabalho - Atas (Ficheiros)
+
+![criar_editar_membros_instituicao_claso_sub_rede_atas_ficheiro](https://user-images.githubusercontent.com/9846274/204756371-23f1f959-8335-46fa-8bde-0f505647614f.png)
 
 ### Listagem de Sub Rede de Trabalho - Fichas de Adesão
 
+![listar_membros_rede_sub_rede_fichas](https://user-images.githubusercontent.com/9846274/204643135-970dec77-e4a1-4a10-8652-2fb3189810a1.png)
+
+
+
 ### Listagem de Sub Rede de Trabalho - Regulamentos
+
+![listar_membros_rede_sub_rede_regulametos](https://user-images.githubusercontent.com/9846274/204643145-e29f970f-833f-46a9-a3d7-8d248ea86a94.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
