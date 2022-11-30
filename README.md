@@ -180,3 +180,16 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 ![listar_membros_rede_sub_rede_regulametos](https://user-images.githubusercontent.com/9846274/204643145-e29f970f-833f-46a9-a3d7-8d248ea86a94.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Nucleo Executivo
+
+### Listagem de Membros de Instituição
+
+![listar_membros_rede_nucleoexecutivo](https://user-images.githubusercontent.com/9846274/204758656-bb1cc784-2793-4af3-bff2-a9d23b281f77.png)
+
+### Editar/Criar Membros da Instituição (Nucleo Executivo)
+
+![criar_editar_membros_instituicao_nucleoexecutivo](https://user-images.githubusercontent.com/9846274/204759077-416f613d-2385-45ee-8aad-ca77b536862c.png)
+
+
+
