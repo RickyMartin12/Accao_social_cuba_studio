@@ -257,8 +257,23 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ### Listagem de Membros de Instituição (Legislação, Regulamentos, Minutas)
 
-
+![listar_membros_rede_documentacao_sub_rede_legislacao](https://user-images.githubusercontent.com/9846274/204867256-475c7c36-3bbb-4fd0-b8ec-5b1cb047145d.png)
 
 ### Editar/Criar Membros da Instituição das Sub Redes de Trabalho da Legislação, Regulamentos, Minutas (Dados Pessoais)
 
+![create_edit_membros_rede_documentacao_sub_rede_legislacao_dados_pessoais](https://user-images.githubusercontent.com/9846274/204867247-b1005b9f-f5d9-4f40-97b9-f4d81ba322d8.png)
+
 ### Editar/Criar Membros da Instituição das Sub Redes de Trabalho da Legislação, Regulamentos, Minutas (Ficheiros)
+
+![create_edit_membros_rede_documentacao_sub_rede_legislacao_ficheiro](https://user-images.githubusercontent.com/9846274/204867254-2c1049b8-2d9e-4e50-91c1-a1a64fffdb81.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Documentação na Habitação Social
+
+### Listagem de Habitação Social - Documentação 
+
+![listar_habitacao_social](https://user-images.githubusercontent.com/9846274/204867765-e29fd4fa-ccad-4add-97da-2267e0d81315.png)
+
+### Editar/Criar Habitação Social
+
