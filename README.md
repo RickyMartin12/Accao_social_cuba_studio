@@ -251,4 +251,9 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ![criar_editar_membros_rede_sub_rede_diagnosticosocial_instrumentosdeplan_ficheiros](https://user-images.githubusercontent.com/9846274/204848059-2687c67b-21bd-4203-9e04-31177ef1d3be.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Documentação
+
+### Listagem de Membros de Instituição (Legislação, Regulamentos, Minutas)
 
