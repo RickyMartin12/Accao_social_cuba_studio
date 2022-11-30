@@ -257,3 +257,8 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ### Listagem de Membros de Instituição (Legislação, Regulamentos, Minutas)
 
+
+
+### Editar/Criar Membros da Instituição das Sub Redes de Trabalho da Legislação, Regulamentos, Minutas (Dados Pessoais)
+
+### Editar/Criar Membros da Instituição das Sub Redes de Trabalho da Legislação, Regulamentos, Minutas (Ficheiros)
