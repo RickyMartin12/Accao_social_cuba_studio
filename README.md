@@ -241,4 +241,14 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ### Listagem de Membros de Instituição (Diagnostico Social & Plano de Desenvolvimento)
 
+![listar_membros_rede_sub_rede_diagnosticosocial_instrumentosdeplan](https://user-images.githubusercontent.com/9846274/204846126-4f010ac4-cad8-49d3-969d-4952bdfb6680.png)
+
+### Editar/Criar Membros da Instituição (Instrumentos de Planeamento) da Sub Rede de Trabalho - Diagnostico Social / Plano de Desenvolvimento (Dados Pessoais)
+
+![criar_editar_membros_rede_sub_rede_diagnosticosocial_instrumentosdeplan_dados_pessoais](https://user-images.githubusercontent.com/9846274/204848053-15863094-99d0-40d1-beab-40904643e2ed.png)
+
+### Editar/Criar Membros da Instituição (Instrumentos de Planeamento) da Sub Rede de Trabalho - Diagnostico Social / Plano de Desenvolvimento (Ficheiros)
+
+![criar_editar_membros_rede_sub_rede_diagnosticosocial_instrumentosdeplan_ficheiros](https://user-images.githubusercontent.com/9846274/204848059-2687c67b-21bd-4203-9e04-31177ef1d3be.png)
+
 
