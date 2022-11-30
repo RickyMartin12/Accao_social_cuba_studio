@@ -211,11 +211,11 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 
 ![listar_membros_rede_grupostrabalho](https://user-images.githubusercontent.com/9846274/204764203-a4f3acbc-ddde-4461-81ca-d1b0abafcb1b.png)
 
-### Editar/Criar Membros da Instituição (Nucleo Executivo) da Sub Rede de Trabalho - Atas (Dados Pessoais)
+### Editar/Criar Membros da Instituição (Nucleo Executivo) da Sub Rede de Trabalho (Dados Pessoais)
 
 ![criar_editar_membros_rede_nucleoexecutivo_dados_pessoais](https://user-images.githubusercontent.com/9846274/204839923-d8c8038b-4483-4b5c-a1f9-af5f77d62c9f.png)
 
-### Editar/Criar Membros da Instituição (Nucleo Executivo) da Sub Rede de Trabalho - Atas (Ficheiro)
+### Editar/Criar Membros da Instituição (Nucleo Executivo) da Sub Rede de Trabalho (Ficheiro)
 
 ![criar_editar_membros_rede_nucleoexecutivo_ficheiro](https://user-images.githubusercontent.com/9846274/204839929-991a3d3b-1a0b-40f4-9f16-cee0ebff4d72.png)
 
@@ -224,5 +224,21 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 ## Plataforma Supraconcelhia
 
 ### Listagem de Rede "Plataforma Supraconcelhia"
+
+![listar_membros_rede_plataforma](https://user-images.githubusercontent.com/9846274/204843018-29b1864e-36fa-405c-b550-70d6584680df.png)
+
+### Editar/Criar Membros da Instituição (Plataforma Supraconcelhia) da Sub Rede de Trabalho (Dados Pessoais)
+
+![criar_editar_membros_rede_plataforma_dados_pessoais](https://user-images.githubusercontent.com/9846274/204844269-05b16add-6495-47ac-940a-4929a1757476.png)
+
+### Editar/Criar Membros da Instituição (Plataforma Supraconcelhia) da Sub Rede de Trabalho (Ficheiro)
+
+![criar_editar_membros_rede_plataforma_ficheiro](https://user-images.githubusercontent.com/9846274/204844274-1918ad51-5992-4714-b31c-936e62d4c6c8.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Instrumentos de Planeamento
+
+### Listagem de Membros de Instituição (Diagnostico Social & Plano de Desenvolvimento)
 
 
