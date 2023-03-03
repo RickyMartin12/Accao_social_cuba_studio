@@ -10,16 +10,19 @@ Plataforma: http://app.cm-olhao.pt/asocial/
 Caso que queira modificar a base de dados esta localizado na pasta modules\core\src\pt\cmolhao onde esta o ficheiro app.properties
 
 ### Database 
+```
 cuba.dataSource.username = postgres
 cuba.dataSource.password = readln
 cuba.dataSource.dbName = postgres
 cuba.dataSource.host = localhost
 cuba.dataSource.port =
 cuba.dataSource.connectionParams = ?currentSchema=sc
+```
 
 ### Exemplo CRUD (Casos Sociais)
-
+```
 Pasta (Localizacao): modules\web\src\pt\cmolhao\web\casos_sociais
+```
 
 #### Index (Search)
 
