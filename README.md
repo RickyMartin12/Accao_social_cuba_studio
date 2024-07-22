@@ -5,8 +5,6 @@ Link do Projecto: https://meocloud.pt/link/d8c47845-1016-4d41-bec3-275c3c53e2bc/
 username: admin
 password: admin
 
-Plataforma: http://app.cm-olhao.pt/asocial/
-
 Caso que queira modificar a base de dados esta localizado na pasta modules\core\src\pt\cmolhao onde esta o ficheiro app.properties
 
 ### Database 
